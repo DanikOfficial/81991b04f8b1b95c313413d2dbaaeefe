@@ -1,1 +1,1 @@
-# 81991b04f8b1b95c313413d2dbaaeefe
+Eventos é a uma idea que está sendo desenvolvida para resolver o problema de gestão de eventos no nosso pais em primeiro lugar e no mundo inteiro se for possivel. desejamos criar um experiência única no que diz respeito a criacão, divulgacão e gestao do evento. 
